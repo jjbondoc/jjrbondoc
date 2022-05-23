@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krystal-whisperer
+- 👋 Hi, I’m @jjrbondoc
 - 👀 I’m interested in learning, films & TV, gaming, anime and travel!
 - 🌱 I’m currently learning a bit of Python -- mostly for data analysis.
 - 💞️ I’m looking to collaborate on any of the above really.
